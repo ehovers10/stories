@@ -1,0 +1,15 @@
+# Site settings
+title: Erik's stories
+author: Erik Hoversten
+
+description: >
+  Some stories written by Erik
+baseurl: "/stories"
+url: "http://erikhoversten.org"
+
+email: ehovers10@gmail.com
+github_username:  ehovers10
+copy: true
+
+# Build settings
+markdown: kramdown
