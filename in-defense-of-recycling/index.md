@@ -1,4 +1,9 @@
-# Tierney's cost-benefit analysis
+---
+layout: story
+title: In Defense of Recycling
+type: big reuse
+date: 2015-10-08
+---
 
 As an attempt to advance the debate on the relative merits of recycling over traditional waste disposal, [John Tierney's recent oped piece in the New York Times](http://www.nytimes.com/2015/10/04/opinion/sunday/the-reign-of-recycling.html?_r=0) is a pretty poor effort. Effective discussion of complex social issues requires the parties involved to respect the intelligence of their opponents, and Tierney seems to have a very low opinion of the practical reasoning skills of recycling advocates. 
 

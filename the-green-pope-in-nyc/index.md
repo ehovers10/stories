@@ -1,6 +1,7 @@
 ---
 layout: story
 title: The Green Pope in NYC
+type: big reuse
 date: 2015-09-17
 ---
 
