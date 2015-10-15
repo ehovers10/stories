@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: Some stories written by erik
+title: A few simple stories
 date: 2015-10-10
 ---
 

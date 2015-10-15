@@ -1,42 +1,10 @@
 ---
 layout: story
-title: In Defense of Recycling
+title: Recycling defenders unite!
 type: big reuse
+abstract: Written for the October 1, 2015 Big Reuse newsletter
 date: 2015-10-08
 ---
-
-As an attempt to advance the debate on the relative merits of recycling over traditional waste disposal, [John Tierney's recent oped piece in the New York Times](http://www.nytimes.com/2015/10/04/opinion/sunday/the-reign-of-recycling.html?_r=0) is a pretty poor effort. Effective discussion of complex social issues requires the parties involved to respect the intelligence of their opponents, and Tierney seems to have a very low opinion of the practical reasoning skills of recycling advocates. 
-
-He posits that recycling "is less an ethical activity than a religious ritual, like the ones performed by Catholics to obtain indulgences for their sins. Religious rituals don’t need any practical justification for the believers who perform them voluntarily." His implication is that eco-conscious people are either incapable of or uninterested in judging the real impact of their actions.
-
-Tierney is wrong to suggest that cost-benefit analysis is overlooked in recycling advocacy. Of course, we can and ought to question the effectiveness of particular recycling practices, but we don't accomplish anything by blithely disparaging the motivations of the eco-conscious. If Tierney genuinely thinks that "recycling has been relentlessly promoted as a goal in and of itself" and "as a result, otherwise well-informed and educated people have no idea of the relative costs and benefits," then he needs to do some better research.
-
-In her response to Tierney at NERC, Athena Lee Bradley does just that. Her article represents quality research and a genuine interest in sussing out the costs and benefits of recycling. She cites a number of valuable sources to provide context where Tierney offers merely bald claims. As an added bonus, she takes Tierney to task on his own research practices.
-
-[Read Bradley's complete response at nerc.org](https://nerc.org/news-and-updates/blog/nerc-blog/2015/10/06/hes-back)
-
-[Read our thoughts on the benefits of recycling at our website](http://bigreuse.org/news/recycling-cost-benefit-analysis)
-
-* * * * *
-
-## Other responses to Tierney
-
-Some of the issues that Tierney gestures at without providing any real analysis are:
-
-The costs of transporting, sorting, and processing recyclables
-+ [Patty Moore, Recycling is not dead](http://resource-recycling.com/node/6494)
-+ [The Economist, The truth about recycling](http://www.economist.com/node/9249262)
-
-The dangers of landfill emissions, methane vs. carbon dioxide
-+ [EPA Landfill Methane Outreach Program](http://www3.epa.gov/lmop/basic-info/)
-+ [Methane, flaring, and non-methane organic compounds](http://www.energyjustice.net/lfg)
-
-Recycling and extra effort
-+ [Thompson, Recycling: You may be doing it wrong](http://www.smithsonianmag.com/science-nature/recycling-you-may-be-doing-it-wrong-180951192/?no-ist)
-
-* * * * *
- 
-## Recycling defenders unite!
 
 As an attempt to advance the debate on the relative merits of recycling over traditional waste disposal, [John Tierney's recent op-ed piece in the New York Times](http://www.nytimes.com/2015/10/04/opinion/sunday/the-reign-of-recycling.html?_r=0) is a pretty poor effort. Effective discussion of complex social issues requires the parties involved to respect the intelligence of their opponents, and Tierney seems to have a very low opinion of the practical reasoning skills of recycling advocates. 
 
@@ -52,7 +20,8 @@ Tierney is wrong to suggest that cost-benefit analysis is overlooked in recyclin
 + [Smithsonian Magazine](http://www.smithsonianmag.com/science-nature/recycling-you-may-be-doing-it-wrong-180951192/?no-ist) recognizes that recycling does take more care than simply tossing items, and they provide a list of tips on how to go about it.
 + The folks at [Resource Recycling](http://resource-recycling.com/node/6494) have compiled a few different links and reposted an op-ed from Patty Moore (who Tierney references, but doesn't respond to) about some of the issues with sorting recyclables at processing centers.
 
-* * * * *
+* * *
+{: .divider}
 
 These discussions about the specific costs and benefits of recycling (or failing to do so) are invaluable to the discussion. But I'd like to focus on a theme I saw in Tierney's piece that that I think often creeps up in challenges to the cost effectiveness of various environmental policies. It is the same issue that has [hounded the electric car](http://shrinkthatfootprint.com/electric-cars-green) for many years. I think that it is a general problem we face in applying cost-benefit reasoning -- the challenge of separating something's true value from its merely incidental consequences.
 
@@ -68,7 +37,8 @@ In a similar vein, Tierney offers the statistic that a single round-trip flight 
 
 Recycling isn't going to solve the world's environmental woes on its own. But no one genuinely thinks that as long as they recycle they get a free ride to perform any actions they wish. Environmental advocates need to have a wide portfolio of interests. Carbon creation is deeply embedded in our social framework; freeing ourselves from its grips requires a lot of effort in a lot of different arenas. Recycling is one positive practice in a fabric of environmental advocacy.
 
-* * * * *
+* * *
+{: .divider}
 
 Allow me to follow Tierney's lead and wax psychoanalytical for a moment. Tierney suspects that recycling advocates are spurred by environmental zealotry rather than genuine concern for resource efficiency. I suspect that recycling deniers are spurred by laziness rather than economics. Recycling takes effort, and its benefits show up only at a distance from the point at which one decides what to do with an empty bottle. If one isn't motivated by the "warm glow" recycling can provide, then it's immensely easy to toss the bottle into a wastebasket. It is made even easier by the fact that we are still able to ignore the more obvious effects of increasing landfill waste. Most people are fortunate enough that they don't have to be reminded of how gross our waste is on a daily basis. But that doesn't mean the effects aren't there or that they aren't going to impact society at large eventually. 
 

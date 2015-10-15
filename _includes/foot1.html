@@ -1,4 +1,3 @@
-<footer class="site-footer">
 
   <div class="wrapper">
 
@@ -36,24 +35,23 @@
           </li>
           {% endif %}
 
-          {% if site.copy %}
-          <li>
-            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-              <span class="icon">{% include icons.html thing="cc" %}</span>
-              <span class="icon">{% include icons.html thing="cca" %}</span>
-            </a>
-          </li>
-          {% endif %}
         </ul>
       </div>
 
 <div class="footer-col  footer-col-2"></div>
 
       <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
+        <span>{{ site.description }}</span>
+          {% if site.copy %}
+          <p>
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+              <span class="icon">{% include icons.html thing="cc" %}</span>
+              <span class="icon">{% include icons.html thing="cca" %}</span>
+            </a>
+          </p>
+          {% endif %}
       </div>
     </div>
 
   </div>
 
-</footer>
