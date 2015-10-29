@@ -7,18 +7,23 @@
 
 <div class="wrapper">
 
+<!-- Header -->
 <div class="page-heading">
 <h1>{{ site.title }}</h1>
 <h2>{{ page.title }} by {{ site.author }}</h2>
 </div>
 
+<!-- Navigation -->
+{% include mark.html title="navigation" %}
+
+<!-- Content -->
 <div class="page-content">
   {{ content }}
 </div>
 
-</div>
-
+<!-- Footer -->
 {% include foot1.html %}
 
+</div>
 </body>
 </html>

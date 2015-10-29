@@ -2,10 +2,10 @@
 layout: story
 title: Sway
 type: fun
-date: 2015-10-10
+date: 2015-10-14
 ---
 
-In time he found the trinket dangling from a spider thread, itself reinforced with twenty buttresses justting out at haphazard angles. Some were anchored to the nearby eave, others traversed great distances to alight, slide, and stick to the downspout. One intrepid explorer has crossed the chasm into the animate and was tethered to a lilac branch, softly swaying to and fro, east and west. Xylem up and phloem down.
+In time, he found the trinket dangling from a spider thread, itself reinforced with twenty buttresses justting out at haphazard angles. Some were anchored to the nearby eave, others traversed great distances to alight, slide, and stick to the downspout. One intrepid explorer has crossed the chasm into the animate and was tethered to a lilac branch, softly swaying to and fro, east and west. Xylem up and phloem down.
 
 The strength of spider silk is widely touted, and sure, strength is a nice perk if you can get it. But flexibility will get you into more joints and past bigger bouncers. There's always a bouncer bigger than you. And don't knock tackiness! You can find a million reasons to head off on another adventure. The power to stick around is what lets you really get to know a place.
 

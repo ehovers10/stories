@@ -3,7 +3,7 @@ layout: story
 title: The Green Pope in NYC
 type: big reuse
 abstract: Written for the September 24, 2015 Big Reuse newsletter
-date: 2015-09-17
+date: 2015-09-24
 ---
 
 As only the 5th papal visit to the US, Pope Francis' trip through Washington DC, New York, and Philadelphia this week is naturally an exciting event. 
