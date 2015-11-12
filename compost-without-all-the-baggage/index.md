@@ -2,7 +2,10 @@
 layout: story
 title: Compost without all the baggage
 type: big reuse
-abstract: Written for the October 29, 2015 Big Reuse newsletter
+abstract: >
+  Plastic bags are an unsightly nuisance flapping in the newly bare trees. They are also 
+  the largest source of contamination of compostable food scraps and a major hindrance to 
+  reaching Mayor Deblasio's goal of diverting 75% of solid waste from landfills.
 date: 2015-10-29
 ---
 

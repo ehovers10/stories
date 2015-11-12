@@ -2,7 +2,7 @@
 layout: story
 title: Recycling defenders unite!
 type: big reuse
-abstract: Written for the October 1, 2015 Big Reuse newsletter
+abstract: Written for the October 8, 2015 Big Reuse newsletter
 date: 2015-10-08
 ---
 
