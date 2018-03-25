@@ -20,5 +20,9 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "init"
+      _defaults:
+        layout: "story"
+        title: "Title"
+        author: "Erik"
+        date: 2018-01-01
       
