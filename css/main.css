@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'expressway';
-  src: url("/stories/fonts/expressway.ttf"); }
+  src: url("/fonts/expressway.ttf"); }
 @font-face {
   font-family: 'glam';
-  src: url("/stories/fonts/Glametrix.otf"); }
+  src: url("/fonts/Glametrix.otf"); }
 @font-face {
   font-family: 'glamlite';
-  src: url("/stories/fonts/GlametrixLight.otf"); }
+  src: url("/fonts/GlametrixLight.otf"); }
 /**
  * Reset some basic elements
  */
