@@ -15,5 +15,10 @@ copy: true
 markdown: kramdown
   
 
-
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "article"
       
