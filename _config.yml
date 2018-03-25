@@ -18,7 +18,7 @@ markdown: kramdown
 defaults:
   -
     scope:
-      path: "stories"
+      path: ""
     values:
       layout: "article"
       title: ""
