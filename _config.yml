@@ -13,3 +13,14 @@ copy: true
 
 # Build settings
 markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "stories"
+    values:
+      layout: "article"
+      title: ""
+      date: ""
+      abstract: ""
+      
