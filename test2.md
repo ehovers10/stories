@@ -1,5 +1,5 @@
 ---
-layout: init
+layout: story
 title: Test1
 ---
 
