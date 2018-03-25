@@ -20,5 +20,5 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "article"
+      layout: "init"
       
